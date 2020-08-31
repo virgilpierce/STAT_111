@@ -3,3 +3,5 @@
 .ipynb_checkpoints/Class 8-30 Data Types-checkpoint.ipynb
 .ipynb_checkpoints/Class 9-2 Sequences and DataFrames-checkpoint.ipynb
 .ipynb_checkpoints/Class Worksheet 8-28-checkpoint.ipynb
+.ipynb_checkpoints/*
+.gitignore~
