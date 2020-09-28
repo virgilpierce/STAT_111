@@ -5,3 +5,5 @@
 .ipynb_checkpoints/Class Worksheet 8-28-checkpoint.ipynb
 .ipynb_checkpoints/*
 .gitignore~
+.DS_Store
+PPP_data_150k_plus.csv
